@@ -1,16 +1,17 @@
 {
   "name": "dsh-kiro-bridge",
   "description": "Kiro (AWS CodeWhisperer) provider for DeepSeek Harness: multi-method login, model discovery, streaming tool calls, prompt-cache-aware usage, plus a CodeWhisperer profile switcher. Fork of dat-lequoc/dsh-kiro.",
-  "version": "0.1.19-patch.10",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
+  "icon": "./assets/kiro-icon.svg",
   "author": {
     "name": "zwgshanc",
     "url": "https://github.com/zwgshanc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwgshanc/dsh-kiro.git"
+    "url": "git+https://github.com/zwgshanc/dsh-kiro-bridge.git"
   },
   "keywords": [
     "deepseek-harness",
@@ -24,9 +25,9 @@
     "oauth",
     "reasoning"
   ],
-  "homepage": "https://github.com/zwgshanc/dsh-kiro#readme",
+  "homepage": "https://github.com/zwgshanc/dsh-kiro-bridge#readme",
   "bugs": {
-    "url": "https://github.com/zwgshanc/dsh-kiro/issues"
+    "url": "https://github.com/zwgshanc/dsh-kiro-bridge/issues"
   },
   "main": "lib/index.js",
   "types": "lib/types/index.d.ts",
