@@ -15,7 +15,7 @@ This is an independent integration and is not affiliated with or endorsed by AWS
 ## Install
 
 ```sh
-dsh plugin --profile web add github:dat-lequoc/dsh-kiro
+dsh plugin --profile web add github:zwgshanc/dsh-kiro
 dsh --profile web
 ```
 
@@ -23,7 +23,7 @@ From a DeepSeek Harness source checkout, use its launcher:
 
 ```sh
 cd ~/deepseek-harness
-pnpm dsh plugin --profile web add github:dat-lequoc/dsh-kiro
+pnpm dsh plugin --profile web add github:zwgshanc/dsh-kiro
 pnpm dsh --profile web
 ```
 

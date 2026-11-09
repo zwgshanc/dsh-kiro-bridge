@@ -13,4 +13,4 @@
 
 - insert:
     - id: llm-kiro
-      name: dsh-kiro
+      name: dsh-kiro-bridge

@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: 'dsh-kiro',
+  id: 'dsh-kiro-bridge',
   factory(require) {
     const React = require('react')
     const { useCallback, useEffect, useMemo, useState } = React

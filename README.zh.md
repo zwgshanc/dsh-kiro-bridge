@@ -15,7 +15,7 @@
 ## 安装
 
 ```sh
-dsh plugin --profile web add github:dat-lequoc/dsh-kiro
+dsh plugin --profile web add github:zwgshanc/dsh-kiro
 dsh --profile web
 ```
 
@@ -23,7 +23,7 @@ dsh --profile web
 
 ```sh
 cd ~/deepseek-harness
-pnpm dsh plugin --profile web add github:dat-lequoc/dsh-kiro
+pnpm dsh plugin --profile web add github:zwgshanc/dsh-kiro
 pnpm dsh --profile web
 ```
 
