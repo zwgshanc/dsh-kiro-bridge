@@ -1,7 +1,7 @@
 {
   "name": "dsh-kiro-bridge",
   "description": "Kiro (AWS CodeWhisperer) provider for DeepSeek Harness: multi-method login, model discovery, streaming tool calls, prompt-cache-aware usage, plus a CodeWhisperer profile switcher. Fork of dat-lequoc/dsh-kiro.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "license": "MIT",
   "icon": "./assets/kiro-icon.svg",

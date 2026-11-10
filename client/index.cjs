@@ -938,7 +938,7 @@ body[data-ds-dark-theme] .dshk-profile-item-clear{color:#6b7280}
         ctx.slots.inject('settings.section', () => ctx.slots.register({
           name: 'settings.section',
           id: 'kiro',
-          order: 12,
+          order: 16,
           label: () => 'Kiro',
         }, () => React.createElement(KiroSettings, { ctx })))
       },
